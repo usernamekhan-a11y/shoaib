@@ -1,3 +1,5 @@
+
+    name: Start Building...
 name: Windows - LiteManager
 
 
@@ -9,8 +11,6 @@ on:
 jobs:
 
   build:
-
-    name: Start Building...
 
     runs-on: windows-latest
 
